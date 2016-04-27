@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ArtLover]]></title>
         <description><![CDATA[ArtLover]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artlover/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 15:52:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 15:55:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artlover/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7f2523-2592-4ef4-b373-2227e9888b14.jpg">]]></description>
+            <link>https://thegrid.ai/artlover/safeway-opened-in-rodeo-in-1980-it-felt-like-disneyland-had/index.html</link>
+            <guid isPermaLink="false">3e83bb7b-c977-49d6-ac16-3f85d807a41b</guid>
+            <pubDate>Wed, 27 Apr 2016 15:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad1b7d5-46b2-49af-bf99-85c2c0741f76.jpg">]]></description>
-            <link>undefinedwe-lived-in-6-different-houses-when-i-was-growing-up-my-fav/index.html</link>
+            <link>https://thegrid.ai/artlover/we-lived-in-6-different-houses-when-i-was-growing-up-my-fav/index.html</link>
             <guid isPermaLink="false">42895d9b-02c5-41e2-b365-dfac37cd2c06</guid>
             <pubDate>Wed, 27 Apr 2016 15:52:53 GMT</pubDate>
         </item>
